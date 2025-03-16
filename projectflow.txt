@@ -1,0 +1,2 @@
+9CP49hmcq9yEwCuC
+mongodb+srv://harshitrai2532005:<db_password>@cluster0.453vt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
